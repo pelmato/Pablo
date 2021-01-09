@@ -50,7 +50,7 @@ La même règle s'applique pour les triples et les quadruples.
 
 ## 6. Fin de la manche
 
-Lorsqu'un joueur estime qu'il a probablement moins de points que les autres joueurs, il annonce « Pablo » juste après avoir joué et avant que le joueur suivant ne pioche. À partir de ce moment la partie continue jusqu'à ce que tous les autres joueurs aient joué une fois. On retourne ensuite les cartes et on vérifie alors si le joueur ayant dit « Pablo » a effectivement moins de points que les autres.
+Lorsqu'un joueur estime qu'il a probablement moins de points que les autres joueurs, il annonce « Pablo » juste après avoir joué et avant que le joueur suivant ne pioche. Un dernier tour est effectué et la manche prend fin quand c'est au tour de l'annonceur. On retourne ensuite les cartes et on vérifie alors si le joueur ayant dit « Pablo » a effectivement moins de points que les autres.
 
 ## 7. Décompte des points
 
