@@ -29,7 +29,7 @@ Certaines cartes ont un pouvoir. Ce pouvoir est valable uniquement lorsque la ca
 
 NB : il n'y a pas d'obligation à utiliser le pouvoir d'une carte. Les cartes à pouvoir peuvent être utilisées normalement pour leur valeur numérique.
 
-## 5. Paires, triples
+## 5. Paires, triples, quadruples
 
 Si avant de piocher, un joueur possède une paire dans son jeu alors il a le droit de remplacer sa paire par la carte piochée (qu'elle provienne de la pioche ou de la défausse). Il met donc sa paire dans la défausse et se retrouve avec une carte en moins. Si le joueur s'est trompé et que les deux cartes ne constituent pas une paire, il reprend ses deux cartes et conserve la carte piochée, se retrouvant finalement avec une carte supplémentaire.
 
@@ -46,7 +46,7 @@ Il tire alors un 4 et décide de remplacer sa paire de 5. Son jeu devient donc l
 8
 ```
 
-La même règle s'applique pour les triples.
+La même règle s'applique pour les triples et les quadruples.
 
 ## 6. Fin de la manche
 
