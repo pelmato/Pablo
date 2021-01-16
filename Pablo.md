@@ -10,8 +10,8 @@ But du jeu : les joueurs doivent tenter de minimiser la valeur des cartes posé
 ## 2. Déroulement de la partie
 
 Un des joueurs mélange et distribue 4 cartes par joueur face contre table de façon à former un carré devant chaque joueur. Le reste des cartes forme la pioche. Chaque joueur regarde les 2 cartes les plus proches de lui et tente de les retenir. Les autres cartes lui restent inconnues. En début de partie chaque joueur a le droit de regarder les 2 cartes les plus proches de lui jusqu'à ce qu'il pioche pour la première fois. Le joueur à gauche de celui qui a distribué commence la partie en piochant une carte. Il peut au choix :
-- poser la carte dans la défausse
-- placer la carte dans son jeu fasse cachée à la place de n'importe quelle autre carte et placer la carte ainsi remplacée dans la défausse.
+- poser la carte dans la défausse face visible
+- placer la carte dans son jeu fasse cachée à la place de n'importe quelle autre carte et placer la carte ainsi remplacée dans la défausse face visible.
 
 C'est ensuite le tour du joueur suivant. Il a le choix soit de tirer une carte dans la pioche soit de prendre la dernière carte posée sur la défausse.
 
